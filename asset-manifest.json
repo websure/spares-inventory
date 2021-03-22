@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/spares-inventory/static/css/main.7be6901f.chunk.css",
+    "main.js": "/spares-inventory/static/js/main.8a8080a1.chunk.js",
+    "main.js.map": "/spares-inventory/static/js/main.8a8080a1.chunk.js.map",
+    "runtime-main.js": "/spares-inventory/static/js/runtime-main.d8b9e903.js",
+    "runtime-main.js.map": "/spares-inventory/static/js/runtime-main.d8b9e903.js.map",
+    "static/css/2.30c1218d.chunk.css": "/spares-inventory/static/css/2.30c1218d.chunk.css",
+    "static/js/2.21c51d67.chunk.js": "/spares-inventory/static/js/2.21c51d67.chunk.js",
+    "static/js/2.21c51d67.chunk.js.map": "/spares-inventory/static/js/2.21c51d67.chunk.js.map",
+    "index.html": "/spares-inventory/index.html",
+    "precache-manifest.766631f29fb7a20a6c06be49ecc4dbee.js": "/spares-inventory/precache-manifest.766631f29fb7a20a6c06be49ecc4dbee.js",
+    "service-worker.js": "/spares-inventory/service-worker.js",
+    "static/css/2.30c1218d.chunk.css.map": "/spares-inventory/static/css/2.30c1218d.chunk.css.map",
+    "static/css/main.7be6901f.chunk.css.map": "/spares-inventory/static/css/main.7be6901f.chunk.css.map",
+    "static/js/2.21c51d67.chunk.js.LICENSE.txt": "/spares-inventory/static/js/2.21c51d67.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/spares-inventory/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8b9e903.js",
+    "static/css/2.30c1218d.chunk.css",
+    "static/js/2.21c51d67.chunk.js",
+    "static/css/main.7be6901f.chunk.css",
+    "static/js/main.8a8080a1.chunk.js"
+  ]
+}
