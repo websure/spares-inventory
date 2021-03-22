@@ -1,5 +1,7 @@
 # SparesCNX Dashboard for Parts : SparesCNX Frontend Test Assignment
 
+### Application URL : https://websure.github.io/spares-inventory/
+
 ## About the Assignment :
 
 - Responsive react application to view list of available Parts and their current
@@ -44,6 +46,7 @@
 ### Reference
 
 - Learn about Custom State management library here -
+  https://github.com/websure/spares-inventory/blob/master/lib/README.md
 
 ### caveats
 

@@ -12,7 +12,7 @@
 ### Bootstrapping Application
 
 - clone the project : git clone https://github.com/websure/spares-inventory.git
-- Usage : import CustomStore from '../../lib/index';
+- Usage : import CustomStore from 'your/path/lib/index';
 
 ### Features
 
@@ -39,3 +39,4 @@
 ### caveats
 
 - TODO - Add test cases and implement Integration tests
+- As for assignment, only add and update method is implemented.
