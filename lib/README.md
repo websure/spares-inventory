@@ -19,6 +19,8 @@
 - A small JS library to save and retrive JSON objects
 - The library is based on 'Pub-Sub' paradigm
 - Callbacks are used for listening to the updates
+- Singleton Class
+- Immutable Application Object
 
 ### Methods Exposed
 
